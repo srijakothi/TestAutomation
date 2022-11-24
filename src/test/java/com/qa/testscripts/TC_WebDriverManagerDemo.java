@@ -16,6 +16,7 @@ public class TC_WebDriverManagerDemo {
 		WebDriverManager.edgedriver().setup();
 		EdgeDriver edriver1 = new EdgeDriver();
 		System.out.println("successfully opened");
+		System.out.println("srija");
 
 	}
 }
